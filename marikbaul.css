@@ -1,0 +1,16 @@
+#marbau1 {width:452px;background:#0B0B0B;outline:1px solid var(--color-romanos);margin:10px auto auto;display:block;padding:30px;color:#bababa;font-family:calibri;font-size:13px;margin-top:11px;}
+#marbau2 {width:452px;height:200px;background:url('https://i.imgur.com/Y2GuXdw.png') no-repeat center center fixed;}
+#marbau3 {width:148px;height:148px;border:1px solid var(--color-romanos);position:relative;top:25px;border-radius:100%;}
+#marbau4 {width:138px;height:138px;background:url('https://i.imgur.com/XDLAdTF.png');position:relative;top:5px;border-radius:100%;}
+#marbau5 {font-size:18px;font-family:arial;color:var(--color-romanos);text-align:center;text-transform:uppercase;font-weight:900;letter-spacing:1px;margin-top:8px;margin-bottom:-14px;}
+#marbau6 {text-align:center;font-size:10px;text-transform:uppercase;margin-bottom:11px;}
+#marbau7 {display:flex;justify-content:center;width:452px;height:auto;}
+#marbau8 {width:30px;height:30px;background:var(--color-romanos);text-align:center;}
+#marbau9 {color:#060606;line-height:30px;font-size:15px;}
+#marbau10 {width:188px;height:30px;background:url('https://i.imgur.com/Y2GuXdw.png') no-repeat center center fixed;text-align:center;line-height:30px;font-size:15px;}
+#marbau11 {width:30px;height:30px;border-radius:100%;position:relative;}
+#marbau12 {width:30px;height:30px;background:var(--color-romanos);border-radius:100%;}
+#marbau13 {width:424px;background:#0B0B0B;outline:1px solid var(--color-romanos);outline-offset:14px;margin:10px auto auto;display:block;padding:30px;color:#bababa;font-family:calibri;font-size:13px;text-align:justify;margin-top:-4px;margin-bottom:3px;}
+#marbau13 dl.codebox {background:url('https://i.imgur.com/Y2GuXdw.png') no-repeat center center fixed;border:none;}
+#marbau13 dt {border-color:var(--color-romanos);font-size:14px;margin-top:-10px;padding-bottom:11px;margin-bottom:-5px;}
+#marbau14 {color:var(--color-romanos);margin-right:5px;margin-left:5px;}
