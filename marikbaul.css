@@ -7,7 +7,7 @@
 #marbau7 {display:flex;justify-content:center;width:392px;height:auto;}
 #marbau8 {width:30px;height:30px;background:var(--color-romanos);text-align:center;}
 #marbau9 {color:#060606;line-height:30px;font-size:15px;}
-#marbau10 {width:188px;height:30px;background:url('https://i.imgur.com/Y2GuXdw.png') no-repeat center center fixed;text-align:center;line-height:30px;font-size:15px;}
+#marbau10 {width:161px;height:30px;background:url('https://i.imgur.com/Y2GuXdw.png') no-repeat center center fixed;text-align:center;line-height:30px;font-size:15px;}
 #marbau11 {width:30px;height:30px;border-radius:100%;position:relative;}
 #marbau12 {width:30px;height:30px;background:var(--color-romanos);border-radius:100%;}
 #marbau13 {width:424px;background:#0B0B0B;outline:1px solid var(--color-romanos);outline-offset:14px;margin:10px auto auto;display:block;padding:30px;color:#bababa;font-family:calibri;font-size:13px;text-align:justify;margin-top:-4px;margin-bottom:3px;}
