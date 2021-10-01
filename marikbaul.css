@@ -12,5 +12,5 @@
 #marbau12 {width:30px;height:30px;background:var(--color-romanos);border-radius:100%;}
 #marbau13 {width:424px;background:#0B0B0B;outline:1px solid var(--color-romanos);outline-offset:14px;margin:10px auto auto;display:block;padding:30px;color:#bababa;font-family:calibri;font-size:13px;text-align:justify;margin-top:-2px;margin-bottom:3px;}
 #marbau13 dl.codebox {background:url('https://i.imgur.com/Y2GuXdw.png') no-repeat center center fixed;border:none;}
-#marbau13 dt {font-size:15px;margin-top:-9px;padding-bottom:12px;}
+#marbau13 dt {font-size:15px;margin-top:-9px;padding-bottom:12px;border-bottom:1px solid var(--color-acento);}
 #marbau14 {color:var(--color-romanos);margin-right:5px;margin-left:5px;}
