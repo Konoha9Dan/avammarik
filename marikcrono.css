@@ -1,7 +1,7 @@
 #marcro1 {width:100%;max-width:452px;background:#0B0B0B;outline:1px solid var(--color-romanos);margin:10px auto auto;display:block;padding:30px;color:#bababa;font-family:calibri;font-size:13px;display:flex;justify-content:center;}
 #marcro2 {width:100%;max-width:424px;background:#0B0B0B;outline:1px solid var(--color-romanos);outline-offset:14px;margin:10px auto auto;display:block;padding:30px;color:#bababa;font-family:calibri;font-size:13px;text-align:justify;margin-top:15px;}
-#marcro2 dl.codebox {background:url('https://i.imgur.com/mWUDxYQ.png') no-repeat center center fixed;border:none;}
-#marcro2 dt {font-size:15px;margin-top:-9px;padding-bottom:12px;border-bottom:1px solid var(--color-acento);}
+#marcro2 dl.codebox {background:url('https://i.imgur.com/IqSxGrR.png') no-repeat center center fixed;border:none;}
+#marcro2 dt {font-size:15px;margin-top:-9px;padding-bottom:12px;border-bottom:1px solid var(--color-romanos);}
 #marcro3 {font-size:18px;font-family:arial;color:var(--color-romanos);text-align:center;text-transform:uppercase;font-weight:900;letter-spacing:1px;margin-top:-3px;margin-bottom:-3px;}
 #marcro4 {width:auto;height:auto;background:#0B0B0B;margin-top:-1px;}
 #marcro5 {font-size:13px;font-family:arial;color:var(--color-romanos);text-align:center;text-transform:uppercase;font-weight:900;letter-spacing:1px;padding-top:11px;padding-bottom:10px;margin-top:6px;}
