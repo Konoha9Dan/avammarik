@@ -1,4 +1,4 @@
-#marbau1 {width:100%;max-width:452px;background:var(--fondo-base);margin:10px auto auto;display:block;color:#bababa;font-family:calibri;font-size:14px;margin-top:11px;}
+#marbau1 {width:100%;max-width:452px;background:var(--fondo-base);margin:10px auto auto;display:block;color:#bababa;font-family:calibri;font-size:14px;margin-top:10px;margin-bottom:-14px;}
 #marbau2 {width:100%;max-width:452px;height:200px;background:url('https://i.imgur.com/IqSxGrR.png') no-repeat center center fixed;}
 #marbau3 {width:100%;max-width:148px;height:148px;position:relative;top:26px;border-radius:100%;background:linear-gradient(180deg, rgba(251,215,76,1) 0%, rgba(186,186,186,1) 100%);}
 #marbau4 {width:100%;max-width:138px;height:138px;background:url('https://i.imgur.com/XDLAdTF.png');position:relative;top:5px;border-radius:100%;}
