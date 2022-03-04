@@ -1,4 +1,4 @@
-#marbau1 {width:100%;max-width:452px;background:var(--fondo-base);margin:10px auto auto;display:block;color:#bababa;font-family:calibri;font-size:13px;margin-top:11px;}
+#marbau1 {width:100%;max-width:452px;background:var(--fondo-base);margin:10px auto auto;display:block;color:#bababa;font-family:calibri;font-size:14px;margin-top:11px;}
 #marbau2 {width:100%;max-width:452px;height:200px;background:url('https://i.imgur.com/IqSxGrR.png') no-repeat center center fixed;}
 #marbau3 {width:100%;max-width:148px;height:148px;position:relative;top:26px;border-radius:100%;background:linear-gradient(180deg, rgba(251,215,76,1) 0%, rgba(186,186,186,1) 100%);}
 #marbau4 {width:100%;max-width:138px;height:138px;background:url('https://i.imgur.com/XDLAdTF.png');position:relative;top:5px;border-radius:100%;}
@@ -14,4 +14,4 @@
 #marbau13b {width:100%;height:auto;background:var(--color-fondo);padding:30px;}
 #marbau13b .codebox dt {border:3px solid;border-image:linear-gradient(180deg, rgba(251,215,76,1) 0%, rgba(186,186,186,1) 100%);border-image-slice:50;border-left:0px;border-right:0px;border-top:0px;background:linear-gradient(180deg, rgba(251,215,76,1) 0%, rgba(186,186,186,1) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-transform:uppercase;font-weight:900;letter-spacing:1px;font-size:14px;font-family:arial;}
 #marbau14 {margin-right:5px;margin-left:5px;background:linear-gradient(180deg, rgba(251,215,76,1) 0%, rgba(186,186,186,1) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
-#marbau15 {width:100%;height:30px;background:url('https://i.imgur.com/IqSxGrR.png') no-repeat center center fixed;text-align:center;line-height:30px;font-size:15px;}
+#marbau15 {width:100%;height:30px;background:url('https://i.imgur.com/IqSxGrR.png') no-repeat center center fixed;text-align:center;line-height:30px;font-size:14px;}
